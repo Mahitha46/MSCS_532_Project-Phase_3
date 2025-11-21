@@ -66,10 +66,15 @@ Repository Structure
 Project_Phase_3
 │
 ├── graph.py                # Optimized graph structure with out-degree caching
+
 ├── pagerank_opt.py         # Improved PageRank with reduced overhead
+
 ├── centrality_opt.py       # Adaptive betweenness + degree centrality
+
 ├── utils.py                # Sample graph & large graph generators
+
 ├── visualize.py            # Improved visualization
+
 ├── main.py                 # Demo runner & benchmarking
 │
 └── README.md               # Instructions and Project Summary
