@@ -64,7 +64,8 @@ Correctness verification using NetworkX equivalents
 Repository Structure
 
 Project_Phase_3
-│
+
+
 ├── graph.py                # Optimized graph structure with out-degree caching
 
 ├── pagerank_opt.py         # Improved PageRank with reduced overhead
@@ -76,7 +77,8 @@ Project_Phase_3
 ├── visualize.py            # Improved visualization
 
 ├── main.py                 # Demo runner & benchmarking
-│
+
+
 └── README.md               # Instructions and Project Summary
 
 Key Algorithms
